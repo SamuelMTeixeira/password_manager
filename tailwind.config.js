@@ -12,13 +12,16 @@ module.exports = {
         extend: {
             colors: {
                 azul: {
-                    100: '#C5DFFF',
-                    200: '#061E3C',
-                    300: '#1057B0'
+                    100: '#edf1fc',
+                    200: '#7084dc',
+                    300: '#1057B0',
+                    400: '#94acfc',
+                    500: '#4D66E1',
                 },
             },
             fontFamily: {
-                baloo: ['Baloo Paaji 2', 'cursive'],
+                'lora': ['Lora', 'sans-serif'],
+                'rubik': ['Rubik', 'sans-serif'],
             },
             keyframes: {
                 sino_kf: {
